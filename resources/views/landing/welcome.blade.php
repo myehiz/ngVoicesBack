@@ -39,8 +39,7 @@
 
 <body>
     <div id=" __nuxt">
-        <!--
-        -->
+        <!---->
         <div id="__layout">
             <div class="c-app">
                 <nav class="c-nav">
